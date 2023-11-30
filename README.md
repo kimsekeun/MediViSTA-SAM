@@ -6,12 +6,6 @@
 This repo contains the code for our paper **MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation**.
 We are in underconstruction this page.
 
-## Enviroment setup
-```
-docker pull sk1064/medivista
-```
-- Docker link : https://hub.docker.com/repository/docker/sk1064/medivista/general
-
 ## Execution Instructions
 
 ## Citation
