@@ -9,14 +9,14 @@ We are in underconstruction this page.
 ## Execution Instructions
 
 - Build Model
-"""
+```
 from models.segmentation.segment_anything import sam_model_registry
 model, img_embedding_size = sam_model_registry[args.vit_type](args, image_size=args.img_size,
                                                 num_classes=args.num_classes,
                                                 chunk = chunk,
                                                 checkpoint=args.resume, pixel_mean=[0., 0., 0.],
                                                 pixel_std=[1., 1., 1.])
-"""
+```
 ## Citation
 
 If you found MediViSTA-SAM useful in your research, please consider starring ⭐ us on GitHub and citing 📚 us in your research!
