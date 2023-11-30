@@ -7,7 +7,9 @@ This repo contains the code for our paper **MediViSTA-SAM: Zero-shot Medical Vid
 We are in underconstruction this page.
 
 ## Execution Instructions
-
+- Envrionment
+  Docker link -> https://hub.docker.com/repository/docker/sk1064/medivista/general
+  
 - Build Model
 ```
 from models.segmentation.segment_anything import sam_model_registry
