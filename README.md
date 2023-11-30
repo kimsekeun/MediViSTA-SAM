@@ -3,11 +3,7 @@
 
 [![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/) 
 
-This repo contains the code for our paper **MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation**.
-
-## Implementation
-
-This codebase contains the implementation of <a href="https://arxiv.org/abs/2309.13539"> here </a>.
+This repo contains the code for our paper  <a href="https://arxiv.org/abs/2309.13539"> **MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation**  </a>.
 
 ## Execution Instructions
 - Envrionment Setting
