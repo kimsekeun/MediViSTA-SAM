@@ -8,7 +8,9 @@ We are in underconstruction this page.
 
 ## Execution Instructions
 - Envrionment
-  Docker link -> https://hub.docker.com/repository/docker/sk1064/medivista/general
+
+Docker link
+https://hub.docker.com/repository/docker/sk1064/medivista/general
   
 - Build Model
 ```
