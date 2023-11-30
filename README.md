@@ -7,7 +7,7 @@ This repo contains the code for our paper **MediViSTA-SAM: Zero-shot Medical Vid
 
 ## Implementation
 
-This codebase contains the implementation of <a href="[https://github.com/google-research/l2p](https://arxiv.org/abs/2309.13539)"> here </a>.
+This codebase contains the implementation of <a href="https://arxiv.org/abs/2309.13539"> here </a>.
 
 ## Execution Instructions
 - Envrionment
