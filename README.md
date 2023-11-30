@@ -10,10 +10,11 @@ This repo contains the code for our paper **MediViSTA-SAM: Zero-shot Medical Vid
 This codebase contains the implementation of <a href="https://arxiv.org/abs/2309.13539"> here </a>.
 
 ## Execution Instructions
-- Envrionment
+- Envrionment Setting
 
-Docker link
-https://hub.docker.com/repository/docker/sk1064/medivista/general
+'''
+pip install -r requirements.py
+'''
   
 - Build Model
 ```
