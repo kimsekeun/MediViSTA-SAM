@@ -7,6 +7,9 @@ This repo contains the code for our paper  <a href="https://arxiv.org/abs/2309.1
 
 ![Overview of framework](method.png?raw=true "Overview of MeediViSTA framework")
 
+> The Segmentation Anything Model (SAM) has attracted considerable attention as a foundational model well-known for its robust generalization capabilities across various downstream tasks. However, SAM does not exhibit satisfactory performance in the realm of medical image analysis. In this study, we introduce the first study on adapting SAM on video segmentation, called MediViSTA-SAM, a novel approach designed for medical video segmentation. Given video data, MediViSTA, spatio-temporal adapter captures long and short range temporal attention with cross-frame attention mechanism effectively constraining it to consider the immediately preceding video frame as a reference, while also considering spatial information effectively. Additionally, it incorporates multi-scale fusion by employing a U-shaped encoder and a modified mask decoder to handle objects of varying sizes. To evaluate our approach, extensive experiments were conducted using state-of-the-art (SOTA) methods, assessing its generalization abilities on multi-vendor in-house echocardiography datasets. The results highlight the accuracy and effectiveness of our network in medical video segmentation.
+
+
 ## Execution Instructions
 - Envrionment Setting
 
@@ -35,6 +38,8 @@ Click the links below to download the checkpoint for the corresponding model typ
 ## Results
 
 ![Experimental results](results.png?raw=true "Experimental results")
+![Experimental results](results_.png?raw=true "Experimental results")
+
 
 ## Citation
 
