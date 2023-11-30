@@ -12,9 +12,9 @@ This codebase contains the implementation of <a href="https://arxiv.org/abs/2309
 ## Execution Instructions
 - Envrionment Setting
 
-'''
+```
 pip install -r requirements.py
-'''
+```
   
 - Build Model
 ```
