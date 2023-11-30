@@ -5,6 +5,8 @@
 
 This repo contains the code for our paper  <a href="https://arxiv.org/abs/2309.13539"> **MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation**  </a>.
 
+![Overview of framework](method.png?raw=true "Overview of MeediViSTA framework")
+
 ## Execution Instructions
 - Envrionment Setting
 
