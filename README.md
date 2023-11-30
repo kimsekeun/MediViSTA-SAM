@@ -38,6 +38,8 @@ Click the links below to download the checkpoint for the corresponding model typ
 ## Results
 
 ![Experimental results](results.png?raw=true "Experimental results")
+
+Zero-shot analysis on in-house MGH dataset.
 ![Experimental results](results_.png?raw=true "Experimental results")
 
 
