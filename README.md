@@ -56,3 +56,6 @@ If you found MediViSTA-SAM useful in your research, please consider starring ⭐
   year={2023}
 }
 ```
+
+## Acknowledgement
+We thank MetaAI [(https://github.com/NVlabs/edm)](https://github.com/facebookresearch/segment-anything) for providing baseline method.
